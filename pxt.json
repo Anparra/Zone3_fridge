@@ -1,5 +1,5 @@
 {
-    "name": "zone3_fridge",
+    "name": "zones_fridge",
     "dependencies": {
         "device": "*"
     },
